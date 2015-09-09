@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #Stuff I Need
 
 1. Dr Babbs Stuff
@@ -31,3 +32,10 @@ This chat example showcases how to use `socket.io` with a static `express` serve
 Once the server is running, open the project in the shape of 'https://projectname-username.c9.io/'. As you enter your name, watch the Users list (on the left) update. Once you press Enter or Send, the message is shared with all connected clients.
 
 Software Development in a Database Environment
+
+##working on the md
+*getting used to how all this works
+*I like it though its cool
+*that you could completely develop virtually
+*I wish I had gone to bed last night though...
+
