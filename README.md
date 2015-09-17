@@ -1,13 +1,14 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 #Stuff I Need
 
 1. Dr Babbs Stuff
 [Nodejs Connect Examples](https://ide.c9.io/ahuimanu/nodejs-connect-examples)
   1. Lecture Notes
     * [09022015](https://d6ff1xmuve0sx.cloudfront.net/nc-3.0.2546-d245cae7/static/plugins/c9.ide.preview.markdown/markdown.html?host=https://ide.c9.io&id=markdown0)
+[Nodejs Express Examples](https://ide.c9.io/ahuimanu/nodejs-express-examples)
 
 
+
+[async book](http://krondo.com/?p=1209)
 
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
